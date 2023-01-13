@@ -11,5 +11,8 @@ public class B07 {
         ama bazen ister istemez cakismalar olabilir.
 
          */
+        /*
+        Deneme branchinde cakisma olusturmak icin bu satiri olusturuyoruz
+         */
     }
 }
