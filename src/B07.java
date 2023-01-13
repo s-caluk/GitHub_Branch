@@ -11,5 +11,10 @@ public class B07 {
         ama bazen ister istemez cakismalar olabilir.
 
          */
+
+        /*
+        master branch de cakisma olmasi icin bu satirlari olusturuyoruz.
+        (deneme branchinde ve master branchinde ayni satirlarda farkli yazilar var!)
+         */
     }
 }
