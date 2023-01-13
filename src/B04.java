@@ -1,7 +1,9 @@
-public class B05 {
+
+
+public class B04 {
     public static void main(String[] args) {
         /*
-        master branch de bu class olusturuldu
+         deneme branchinde olusturuldu
          */
     }
 }

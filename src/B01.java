@@ -12,6 +12,8 @@ public class B01 {
         git log --oneline => loglari özet verir
         git checkout nr.  => o numaradaki versiyona götürür, bakip cikarsin.
         git revert nr.    => o numaradaki veryiyona kalici götürür, sonra commit yapmalisin.
+
+        q ile cikarsin
          */
     }
 }
