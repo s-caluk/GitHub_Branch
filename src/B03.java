@@ -19,6 +19,10 @@ public class B03 {
         NOT : Merge yaptigimiz branchlerde ayni kod satirinda farkli kodlar varsa conflict
         olusur. Git iki kodu da gosterir ve bizden manuel olarak bunlari duzenlememiz
         istenir.
+
+        Merge yaparken hangi branche birlestirmek istiyorsan oraya gecmelisin.
+        bsp: deneme branchini master branchine birlestireceksen , master de olduguna emin ol.
+        sonra "git merge deneme" demelisin.
          */
     }
 }
