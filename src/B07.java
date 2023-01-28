@@ -30,5 +30,8 @@ public class B07 {
         Deneme branchinde cakisma olusturmak icin bu satiri olusturuyoruz
 >>>>>>> deneme
          */
+
+
+
     }
 }
